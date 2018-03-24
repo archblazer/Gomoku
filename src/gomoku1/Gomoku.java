@@ -118,7 +118,11 @@ public class Gomoku {
         
     }
     
-
+    //Example of changes
+    private static int change(int change)
+    {
+        return change;   
+    }
     
 
     //player's move
