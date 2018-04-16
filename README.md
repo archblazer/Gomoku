@@ -1,2 +1,2 @@
-# Gomoku
+# Gomok
 #I added something here. 
