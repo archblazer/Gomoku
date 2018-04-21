@@ -1,5 +1,5 @@
 # Gomoku
 # Testing for 
-dfsada
-dfda
-af
+# dfsada
+# dfda
+# af
